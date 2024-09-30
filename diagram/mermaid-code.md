@@ -1,4 +1,4 @@
-```mermaid
+```
 classDiagram
     class Principal {
         - validador: ValidarEntradaDoUsuario
